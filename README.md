@@ -1,8 +1,8 @@
 # CS510 CW 11
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Krista, Ehsan, Atabak**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-11-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-11-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-11-krista-atabak.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-11-krista-atabak)
 
 ## Specification
 
@@ -30,7 +30,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+
 
 ## Honor Pledge
 
@@ -41,4 +41,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Krista, Ehsan, Atabak**
