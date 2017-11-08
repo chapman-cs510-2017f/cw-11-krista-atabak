@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "stack.h"
-
+SVALUE SVALUE_ERR = -9999;
 STACK new_stack() {
     STACK new = NULL;
     return new;
@@ -32,4 +32,18 @@ SVALUE pop_stack(STACK *s) {
       free(temp);
     }
     return val;
+}
+void print_svalue(SVALUE val){
+         printf("%d",val);
+
+}
+
+void print_stack(STACK s){
+  STACK temp  = new_stack();
+  temp = s;
+  while(temp != NULL){
+    printf("%d ",temp->data);
+    temp = temp->head;
+  }
+    printf("\n");
 }
